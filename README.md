@@ -15,8 +15,10 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-click the below link for web-link
-https://abhi-1725.github.io/HTML-CSS-Mini-Project-COVID-19-Tracker/
+- click the below link for web-link
+  https://abhi-1725.github.io/HTML-CSS-Mini-Project-COVID-19-Tracker/
+  
+- click on the "DATA" and "GEOGRAPHIES" link on navigation bar to know the details
 
 
 ### Prerequisites
