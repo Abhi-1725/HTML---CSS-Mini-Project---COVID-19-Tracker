@@ -1,1 +1,1 @@
-# HTML---CSS-Mini-Project---COVID-19-Tracker
+# HTML-CSS-Mini-Project-COVID-19-Tracker
