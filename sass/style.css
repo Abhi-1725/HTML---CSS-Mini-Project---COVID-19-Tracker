@@ -1,0 +1,61 @@
+.navbar #geography {
+  position: fixed;
+  width: 100%;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar #geography .navbar-brand {
+  font-weight: bolder;
+}
+
+.navbar #geography #navbar-menu {
+  color: white;
+}
+
+.main-img {
+  margin-left: 0.75rem;
+  height: 33rem;
+  width: 100%;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.footer {
+  position: absolute;
+  margin-left: 1rem;
+  padding-top: 1rem;
+  width: 98.5%;
+  color: #ffffff;
+  background: #1a435f;
+  font-size: large;
+  font-weight: bolder;
+}
+
+#country {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  font-size: x-large;
+}
+
+.data {
+  margin-left: 5rem;
+  margin-right: 5rem;
+  width: 80%;
+}
+
+.text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+/*# sourceMappingURL=style.css.map */
